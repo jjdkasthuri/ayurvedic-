@@ -15,7 +15,8 @@ This Streamlit application is designed to assist in the analysis and diagnosis o
 ## Installation
 1. **Clone the repository**:
 ```
-git clone https://github.com/HK-0811/report-summary.git 
+https://github.com/jjdkasthuri/ayurvedic-.git
+
 cd report-summary
 ```
 3.  **Install the required packages**:
