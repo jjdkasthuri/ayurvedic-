@@ -1,0 +1,2 @@
+# ayurvedic-
+ayurvedic 
